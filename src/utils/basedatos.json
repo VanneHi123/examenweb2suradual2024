@@ -1,13 +1,11 @@
-
-
+[
     {
-        "nombre":"Juan Perez",
-        "especialidad":"cortes modernos",
-        "experiencia":"8 años",
-        "correo":"juanperez@gmail.com",
-        "contacto":"320501245"
+        "nombre": "Juan Perez",
+        "especialidad": "cortes modernos",
+        "experiencia": "8 años",
+        "correo": "juanperez@gmail.com",
+        "contacto": "320501245"
     },
-    
     {
         "nombre": "Luisa Fernanda Mesa",
         "especialidad": "coloración avanzada",
@@ -15,7 +13,6 @@
         "correo": "luisafernanda@gmail.com",
         "contacto": "3158041236"
     },
-    
     {
         "nombre": "Carlos Martínez",
         "especialidad": "barbería clásica",
@@ -23,7 +20,6 @@
         "correo": "carlosmartinez@gmail.com",
         "contacto": "3004567891"
     },
-    
     {
         "nombre": "Sofía Giraldo",
         "especialidad": "peinados y maquillaje",
@@ -73,6 +69,7 @@
         "correo": "graciasfarid@gmail.com",
         "contacto": "3187845625"
     }
+]
     
 
 
